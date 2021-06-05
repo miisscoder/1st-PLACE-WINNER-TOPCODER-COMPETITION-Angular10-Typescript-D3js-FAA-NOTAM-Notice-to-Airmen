@@ -12,6 +12,6 @@ The Federal Aviation Administration (FAA) in collaboration with Topcoder is work
 
 ### Notes
 
-The source code which wins in topcoder competitions is not allowed on github.
+The source code which wins in topcoder competitions is not allowed to be put on github.
 
 All codes  (for which prize money has been offered)  were transfered to the client at the end of the challenge.
